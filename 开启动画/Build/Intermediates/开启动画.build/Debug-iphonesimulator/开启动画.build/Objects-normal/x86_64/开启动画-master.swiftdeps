@@ -1,0 +1,12 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "f3dc9d3cbc836b5447a4e29187442d31"
+build_time: [519818432, 618823000]
+inputs:
+  "/Users/aetherus/Desktop/swift_practice/\u5F00\u542F\u52A8\u753B/Others/Extension.swift": [519812348, 0]
+  "/Users/aetherus/Desktop/swift_practice/\u5F00\u542F\u52A8\u753B/\u5F00\u542F\u52A8\u753B/AnimationView.swift": [519818432, 0]
+  "/Users/aetherus/Desktop/swift_practice/\u5F00\u542F\u52A8\u753B/\u5F00\u542F\u52A8\u753B/Layer/WaveLayer.swift": [519818227, 0]
+  "/Users/aetherus/Desktop/swift_practice/\u5F00\u542F\u52A8\u753B/\u5F00\u542F\u52A8\u753B/ViewController.swift": [519818227, 0]
+  "/Users/aetherus/Desktop/swift_practice/\u5F00\u542F\u52A8\u753B/\u5F00\u542F\u52A8\u753B/AppDelegate.swift": [519804804, 0]
+  "/Users/aetherus/Desktop/swift_practice/\u5F00\u542F\u52A8\u753B/\u5F00\u542F\u52A8\u753B/Layer/CircleLayer.swift": [519812348, 0]
+  "/Users/aetherus/Desktop/swift_practice/\u5F00\u542F\u52A8\u753B/\u5F00\u542F\u52A8\u753B/Layer/RectangleLayer.swift": [519818227, 0]
+  "/Users/aetherus/Desktop/swift_practice/\u5F00\u542F\u52A8\u753B/\u5F00\u542F\u52A8\u753B/Layer/TriangleLayer.swift": [519818227, 0]

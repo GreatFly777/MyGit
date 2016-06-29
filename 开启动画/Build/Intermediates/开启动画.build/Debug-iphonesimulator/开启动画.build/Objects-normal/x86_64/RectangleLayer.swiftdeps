@@ -1,0 +1,436 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "RectangleLayer"
+provides-nominal:
+- "CX12GfrHIalBvqmw14RectangleLayer"
+provides-member:
+- ["CX12GfrHIalBvqmw14RectangleLayer", ""]
+provides-dynamic-lookup:
+- "rectangleFullPath"
+- "strokeChangeWithcolor"
+depends-top-level:
+- !private "StringLiteralType"
+- "UIBezierPath"
+- "NSCoder"
+- "CAShapeLayer"
+- "RectangleLayer"
+- !private "CABasicAnimation"
+- !private "/"
+- !private "CGPoint"
+- !private "-"
+- !private "fatalError"
+- "UIColor"
+depends-member:
+- !private ["Ps16AbsoluteValuable", "IntegerLiteralType"]
+- !private ["Ps9AnyObject", "CABasicAnimation"]
+- !private ["Ps9AnyObject", "CGColor"]
+- !private ["Ps9AnyObject", "CGPath"]
+- !private ["Ps9AnyObject", "CGPoint"]
+- !private ["Ps9AnyObject", "UIBezierPath"]
+- !private ["Ps9AnyObject", "UIColor"]
+- !private ["Ps9AnyObject", "addAnimation"]
+- !private ["Ps9AnyObject", "addLineToPoint"]
+- !private ["Ps9AnyObject", "clearColor"]
+- !private ["Ps9AnyObject", "closePath"]
+- !private ["Ps9AnyObject", "deinit"]
+- !private ["Ps9AnyObject", "duration"]
+- !private ["Ps9AnyObject", "fatalError"]
+- !private ["Ps9AnyObject", "fillColor"]
+- !private ["Ps9AnyObject", "fromValue"]
+- ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "lineWidth"]
+- !private ["Ps9AnyObject", "moveToPoint"]
+- !private ["Ps9AnyObject", "path"]
+- ["Ps9AnyObject", "rectangleFullPath"]
+- ["Ps9AnyObject", "strokeChangeWithcolor"]
+- !private ["Ps9AnyObject", "strokeColor"]
+- !private ["Ps9AnyObject", "toValue"]
+- ["Ps9AnyObject", ""]
+- !private ["Ps22BidirectionalIndexType", "IntegerLiteralType"]
+- !private ["Ps21BitwiseOperationsType", "IntegerLiteralType"]
+- !private ["PSo8CAAction", "duration"]
+- !private ["PSo8CAAction", "fromValue"]
+- !private ["PSo8CAAction", "init"]
+- !private ["PSo8CAAction", "toValue"]
+- !private ["CSo11CAAnimation", "duration"]
+- !private ["CSo11CAAnimation", "fromValue"]
+- !private ["CSo11CAAnimation", "init"]
+- !private ["CSo11CAAnimation", "toValue"]
+- !private ["CSo16CABasicAnimation", "duration"]
+- !private ["CSo16CABasicAnimation", "fromValue"]
+- !private ["CSo16CABasicAnimation", "init"]
+- !private ["CSo16CABasicAnimation", "toValue"]
+- !private ["CSo7CALayer", "CABasicAnimation"]
+- !private ["CSo7CALayer", "CGPoint"]
+- ["CSo7CALayer", "NSCoder"]
+- ["CSo7CALayer", "UIBezierPath"]
+- ["CSo7CALayer", "UIColor"]
+- !private ["CSo7CALayer", "addAnimation"]
+- !private ["CSo7CALayer", "fatalError"]
+- !private ["CSo7CALayer", "fillColor"]
+- ["CSo7CALayer", "init"]
+- !private ["CSo7CALayer", "lineWidth"]
+- !private ["CSo7CALayer", "path"]
+- ["CSo7CALayer", "rectangleFullPath"]
+- ["CSo7CALayer", "strokeChangeWithcolor"]
+- !private ["CSo7CALayer", "strokeColor"]
+- !private ["PSo13CAMediaTiming", "CABasicAnimation"]
+- !private ["PSo13CAMediaTiming", "CGPoint"]
+- !private ["PSo13CAMediaTiming", "UIBezierPath"]
+- !private ["PSo13CAMediaTiming", "UIColor"]
+- !private ["PSo13CAMediaTiming", "addAnimation"]
+- !private ["PSo13CAMediaTiming", "duration"]
+- !private ["PSo13CAMediaTiming", "fatalError"]
+- !private ["PSo13CAMediaTiming", "fillColor"]
+- !private ["PSo13CAMediaTiming", "fromValue"]
+- ["PSo13CAMediaTiming", "init"]
+- !private ["PSo13CAMediaTiming", "lineWidth"]
+- !private ["PSo13CAMediaTiming", "path"]
+- ["PSo13CAMediaTiming", "rectangleFullPath"]
+- ["PSo13CAMediaTiming", "strokeChangeWithcolor"]
+- !private ["PSo13CAMediaTiming", "strokeColor"]
+- !private ["PSo13CAMediaTiming", "toValue"]
+- ["PSo13CAMediaTiming", ""]
+- !private ["CSo19CAPropertyAnimation", "duration"]
+- !private ["CSo19CAPropertyAnimation", "fromValue"]
+- !private ["CSo19CAPropertyAnimation", "init"]
+- !private ["CSo19CAPropertyAnimation", "toValue"]
+- !private ["CSo12CAShapeLayer", "CABasicAnimation"]
+- !private ["CSo12CAShapeLayer", "CGPoint"]
+- ["CSo12CAShapeLayer", "NSCoder"]
+- ["CSo12CAShapeLayer", "UIBezierPath"]
+- ["CSo12CAShapeLayer", "UIColor"]
+- !private ["CSo12CAShapeLayer", "addAnimation"]
+- !private ["CSo12CAShapeLayer", "fatalError"]
+- !private ["CSo12CAShapeLayer", "fillColor"]
+- ["CSo12CAShapeLayer", "init"]
+- !private ["CSo12CAShapeLayer", "lineWidth"]
+- !private ["CSo12CAShapeLayer", "path"]
+- ["CSo12CAShapeLayer", "rectangleFullPath"]
+- ["CSo12CAShapeLayer", "strokeChangeWithcolor"]
+- !private ["CSo12CAShapeLayer", "strokeColor"]
+- ["CSo12CAShapeLayer", ""]
+- !private ["V12CoreGraphics7CGFloat", "IntegerLiteralType"]
+- !private ["V12CoreGraphics7CGFloat", "deinit"]
+- !private ["VSC7CGPoint", "init"]
+- !private ["Ps11CVarArgType", "CABasicAnimation"]
+- !private ["Ps11CVarArgType", "CGColor"]
+- !private ["Ps11CVarArgType", "CGPath"]
+- !private ["Ps11CVarArgType", "CGPoint"]
+- !private ["Ps11CVarArgType", "IntegerLiteralType"]
+- !private ["Ps11CVarArgType", "UIBezierPath"]
+- !private ["Ps11CVarArgType", "UIColor"]
+- !private ["Ps11CVarArgType", "addAnimation"]
+- !private ["Ps11CVarArgType", "addLineToPoint"]
+- !private ["Ps11CVarArgType", "clearColor"]
+- !private ["Ps11CVarArgType", "closePath"]
+- !private ["Ps11CVarArgType", "duration"]
+- !private ["Ps11CVarArgType", "fatalError"]
+- !private ["Ps11CVarArgType", "fillColor"]
+- !private ["Ps11CVarArgType", "fromValue"]
+- ["Ps11CVarArgType", "init"]
+- !private ["Ps11CVarArgType", "lineWidth"]
+- !private ["Ps11CVarArgType", "moveToPoint"]
+- !private ["Ps11CVarArgType", "path"]
+- ["Ps11CVarArgType", "rectangleFullPath"]
+- ["Ps11CVarArgType", "strokeChangeWithcolor"]
+- !private ["Ps11CVarArgType", "strokeColor"]
+- !private ["Ps11CVarArgType", "toValue"]
+- ["Ps11CVarArgType", ""]
+- !private ["Ps10Comparable", "IntegerLiteralType"]
+- !private ["Ps28CustomDebugStringConvertible", "CABasicAnimation"]
+- !private ["Ps28CustomDebugStringConvertible", "CGColor"]
+- !private ["Ps28CustomDebugStringConvertible", "CGPath"]
+- !private ["Ps28CustomDebugStringConvertible", "CGPoint"]
+- !private ["Ps28CustomDebugStringConvertible", "IntegerLiteralType"]
+- !private ["Ps28CustomDebugStringConvertible", "UIBezierPath"]
+- !private ["Ps28CustomDebugStringConvertible", "UIColor"]
+- !private ["Ps28CustomDebugStringConvertible", "addAnimation"]
+- !private ["Ps28CustomDebugStringConvertible", "addLineToPoint"]
+- !private ["Ps28CustomDebugStringConvertible", "clearColor"]
+- !private ["Ps28CustomDebugStringConvertible", "closePath"]
+- !private ["Ps28CustomDebugStringConvertible", "duration"]
+- !private ["Ps28CustomDebugStringConvertible", "fatalError"]
+- !private ["Ps28CustomDebugStringConvertible", "fillColor"]
+- !private ["Ps28CustomDebugStringConvertible", "fromValue"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "lineWidth"]
+- !private ["Ps28CustomDebugStringConvertible", "moveToPoint"]
+- !private ["Ps28CustomDebugStringConvertible", "path"]
+- ["Ps28CustomDebugStringConvertible", "rectangleFullPath"]
+- ["Ps28CustomDebugStringConvertible", "strokeChangeWithcolor"]
+- !private ["Ps28CustomDebugStringConvertible", "strokeColor"]
+- !private ["Ps28CustomDebugStringConvertible", "toValue"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps23CustomStringConvertible", "CABasicAnimation"]
+- !private ["Ps23CustomStringConvertible", "CGColor"]
+- !private ["Ps23CustomStringConvertible", "CGPath"]
+- !private ["Ps23CustomStringConvertible", "CGPoint"]
+- !private ["Ps23CustomStringConvertible", "IntegerLiteralType"]
+- !private ["Ps23CustomStringConvertible", "UIBezierPath"]
+- !private ["Ps23CustomStringConvertible", "UIColor"]
+- !private ["Ps23CustomStringConvertible", "addAnimation"]
+- !private ["Ps23CustomStringConvertible", "addLineToPoint"]
+- !private ["Ps23CustomStringConvertible", "clearColor"]
+- !private ["Ps23CustomStringConvertible", "closePath"]
+- !private ["Ps23CustomStringConvertible", "duration"]
+- !private ["Ps23CustomStringConvertible", "fatalError"]
+- !private ["Ps23CustomStringConvertible", "fillColor"]
+- !private ["Ps23CustomStringConvertible", "fromValue"]
+- ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "lineWidth"]
+- !private ["Ps23CustomStringConvertible", "moveToPoint"]
+- !private ["Ps23CustomStringConvertible", "path"]
+- ["Ps23CustomStringConvertible", "rectangleFullPath"]
+- ["Ps23CustomStringConvertible", "strokeChangeWithcolor"]
+- !private ["Ps23CustomStringConvertible", "strokeColor"]
+- !private ["Ps23CustomStringConvertible", "toValue"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["Sd", "IntegerLiteralType"]
+- !private ["Sd", "deinit"]
+- !private ["Ps9Equatable", "CABasicAnimation"]
+- !private ["Ps9Equatable", "CGColor"]
+- !private ["Ps9Equatable", "CGPath"]
+- !private ["Ps9Equatable", "CGPoint"]
+- !private ["Ps9Equatable", "IntegerLiteralType"]
+- !private ["Ps9Equatable", "UIBezierPath"]
+- !private ["Ps9Equatable", "UIColor"]
+- !private ["Ps9Equatable", "addAnimation"]
+- !private ["Ps9Equatable", "addLineToPoint"]
+- !private ["Ps9Equatable", "clearColor"]
+- !private ["Ps9Equatable", "closePath"]
+- !private ["Ps9Equatable", "duration"]
+- !private ["Ps9Equatable", "fatalError"]
+- !private ["Ps9Equatable", "fillColor"]
+- !private ["Ps9Equatable", "fromValue"]
+- ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "lineWidth"]
+- !private ["Ps9Equatable", "moveToPoint"]
+- !private ["Ps9Equatable", "path"]
+- ["Ps9Equatable", "rectangleFullPath"]
+- ["Ps9Equatable", "strokeChangeWithcolor"]
+- !private ["Ps9Equatable", "strokeColor"]
+- !private ["Ps9Equatable", "toValue"]
+- ["Ps9Equatable", ""]
+- !private ["Ps23FloatLiteralConvertible", "IntegerLiteralType"]
+- !private ["Ps17FloatingPointType", "IntegerLiteralType"]
+- !private ["Ps16ForwardIndexType", "IntegerLiteralType"]
+- !private ["Ps8Hashable", "CABasicAnimation"]
+- !private ["Ps8Hashable", "CGColor"]
+- !private ["Ps8Hashable", "CGPath"]
+- !private ["Ps8Hashable", "CGPoint"]
+- !private ["Ps8Hashable", "IntegerLiteralType"]
+- !private ["Ps8Hashable", "UIBezierPath"]
+- !private ["Ps8Hashable", "UIColor"]
+- !private ["Ps8Hashable", "addAnimation"]
+- !private ["Ps8Hashable", "addLineToPoint"]
+- !private ["Ps8Hashable", "clearColor"]
+- !private ["Ps8Hashable", "closePath"]
+- !private ["Ps8Hashable", "duration"]
+- !private ["Ps8Hashable", "fatalError"]
+- !private ["Ps8Hashable", "fillColor"]
+- !private ["Ps8Hashable", "fromValue"]
+- ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "lineWidth"]
+- !private ["Ps8Hashable", "moveToPoint"]
+- !private ["Ps8Hashable", "path"]
+- ["Ps8Hashable", "rectangleFullPath"]
+- ["Ps8Hashable", "strokeChangeWithcolor"]
+- !private ["Ps8Hashable", "strokeColor"]
+- !private ["Ps8Hashable", "toValue"]
+- ["Ps8Hashable", ""]
+- !private ["Si", "IntegerLiteralType"]
+- !private ["Si", "deinit"]
+- !private ["Ps21IntegerArithmeticType", "IntegerLiteralType"]
+- !private ["Ps25IntegerLiteralConvertible", "IntegerLiteralType"]
+- !private ["Ps11IntegerType", "IntegerLiteralType"]
+- !private ["Ps14MirrorPathType", "IntegerLiteralType"]
+- !private ["PSo8NSCoding", "CABasicAnimation"]
+- !private ["PSo8NSCoding", "CGColor"]
+- !private ["PSo8NSCoding", "CGPath"]
+- !private ["PSo8NSCoding", "CGPoint"]
+- !private ["PSo8NSCoding", "UIBezierPath"]
+- !private ["PSo8NSCoding", "UIColor"]
+- !private ["PSo8NSCoding", "addAnimation"]
+- !private ["PSo8NSCoding", "addLineToPoint"]
+- !private ["PSo8NSCoding", "clearColor"]
+- !private ["PSo8NSCoding", "closePath"]
+- !private ["PSo8NSCoding", "duration"]
+- !private ["PSo8NSCoding", "fatalError"]
+- !private ["PSo8NSCoding", "fillColor"]
+- !private ["PSo8NSCoding", "fromValue"]
+- ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "lineWidth"]
+- !private ["PSo8NSCoding", "moveToPoint"]
+- !private ["PSo8NSCoding", "path"]
+- ["PSo8NSCoding", "rectangleFullPath"]
+- ["PSo8NSCoding", "strokeChangeWithcolor"]
+- !private ["PSo8NSCoding", "strokeColor"]
+- !private ["PSo8NSCoding", "toValue"]
+- ["PSo8NSCoding", ""]
+- !private ["PSo9NSCopying", "CGColor"]
+- !private ["PSo9NSCopying", "CGPath"]
+- !private ["PSo9NSCopying", "addLineToPoint"]
+- !private ["PSo9NSCopying", "clearColor"]
+- !private ["PSo9NSCopying", "closePath"]
+- !private ["PSo9NSCopying", "duration"]
+- !private ["PSo9NSCopying", "fromValue"]
+- !private ["PSo9NSCopying", "init"]
+- !private ["PSo9NSCopying", "moveToPoint"]
+- !private ["PSo9NSCopying", "toValue"]
+- !private ["CSo8NSObject", "CABasicAnimation"]
+- !private ["CSo8NSObject", "CGColor"]
+- !private ["CSo8NSObject", "CGPath"]
+- !private ["CSo8NSObject", "CGPoint"]
+- ["CSo8NSObject", "NSCoder"]
+- ["CSo8NSObject", "UIBezierPath"]
+- ["CSo8NSObject", "UIColor"]
+- !private ["CSo8NSObject", "addAnimation"]
+- !private ["CSo8NSObject", "addLineToPoint"]
+- !private ["CSo8NSObject", "clearColor"]
+- !private ["CSo8NSObject", "closePath"]
+- !private ["CSo8NSObject", "duration"]
+- !private ["CSo8NSObject", "fatalError"]
+- !private ["CSo8NSObject", "fillColor"]
+- !private ["CSo8NSObject", "fromValue"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "lineWidth"]
+- !private ["CSo8NSObject", "moveToPoint"]
+- !private ["CSo8NSObject", "path"]
+- ["CSo8NSObject", "rectangleFullPath"]
+- ["CSo8NSObject", "strokeChangeWithcolor"]
+- !private ["CSo8NSObject", "strokeColor"]
+- !private ["CSo8NSObject", "toValue"]
+- !private ["PSo16NSObjectProtocol", "CABasicAnimation"]
+- !private ["PSo16NSObjectProtocol", "CGColor"]
+- !private ["PSo16NSObjectProtocol", "CGPath"]
+- !private ["PSo16NSObjectProtocol", "CGPoint"]
+- !private ["PSo16NSObjectProtocol", "UIBezierPath"]
+- !private ["PSo16NSObjectProtocol", "UIColor"]
+- !private ["PSo16NSObjectProtocol", "addAnimation"]
+- !private ["PSo16NSObjectProtocol", "addLineToPoint"]
+- !private ["PSo16NSObjectProtocol", "clearColor"]
+- !private ["PSo16NSObjectProtocol", "closePath"]
+- !private ["PSo16NSObjectProtocol", "duration"]
+- !private ["PSo16NSObjectProtocol", "fatalError"]
+- !private ["PSo16NSObjectProtocol", "fillColor"]
+- !private ["PSo16NSObjectProtocol", "fromValue"]
+- ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "lineWidth"]
+- !private ["PSo16NSObjectProtocol", "moveToPoint"]
+- !private ["PSo16NSObjectProtocol", "path"]
+- ["PSo16NSObjectProtocol", "rectangleFullPath"]
+- ["PSo16NSObjectProtocol", "strokeChangeWithcolor"]
+- !private ["PSo16NSObjectProtocol", "strokeColor"]
+- !private ["PSo16NSObjectProtocol", "toValue"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo14NSSecureCoding", "CGColor"]
+- !private ["PSo14NSSecureCoding", "clearColor"]
+- !private ["Sq", "deinit"]
+- !private ["Ps21RandomAccessIndexType", "IntegerLiteralType"]
+- !private ["CX12GfrHIalBvqmw14RectangleLayer", "CABasicAnimation"]
+- !private ["CX12GfrHIalBvqmw14RectangleLayer", "CGPoint"]
+- ["CX12GfrHIalBvqmw14RectangleLayer", "NSCoder"]
+- ["CX12GfrHIalBvqmw14RectangleLayer", "UIBezierPath"]
+- ["CX12GfrHIalBvqmw14RectangleLayer", "UIColor"]
+- !private ["CX12GfrHIalBvqmw14RectangleLayer", "addAnimation"]
+- ["CX12GfrHIalBvqmw14RectangleLayer", "deinit"]
+- !private ["CX12GfrHIalBvqmw14RectangleLayer", "fatalError"]
+- !private ["CX12GfrHIalBvqmw14RectangleLayer", "fillColor"]
+- ["CX12GfrHIalBvqmw14RectangleLayer", "init"]
+- !private ["CX12GfrHIalBvqmw14RectangleLayer", "lineWidth"]
+- !private ["CX12GfrHIalBvqmw14RectangleLayer", "path"]
+- ["CX12GfrHIalBvqmw14RectangleLayer", "rectangleFullPath"]
+- ["CX12GfrHIalBvqmw14RectangleLayer", "strokeChangeWithcolor"]
+- !private ["CX12GfrHIalBvqmw14RectangleLayer", "strokeColor"]
+- !private ["Ps17SignedIntegerType", "IntegerLiteralType"]
+- !private ["Ps16SignedNumberType", "IntegerLiteralType"]
+- !private ["Vs12StaticString", "deinit"]
+- !private ["Ps10Strideable", "IntegerLiteralType"]
+- !private ["CSo12UIBezierPath", "CGPath"]
+- !private ["CSo12UIBezierPath", "addLineToPoint"]
+- !private ["CSo12UIBezierPath", "closePath"]
+- !private ["CSo12UIBezierPath", "init"]
+- !private ["CSo12UIBezierPath", "moveToPoint"]
+- !private ["CSo7UIColor", "CGColor"]
+- !private ["CSo7UIColor", "clearColor"]
+- !private ["Ps31_BuiltinFloatLiteralConvertible", "IntegerLiteralType"]
+- !private ["Ps33_BuiltinIntegerLiteralConvertible", "IntegerLiteralType"]
+- !private ["Ps19_CVarArgAlignedType", "IntegerLiteralType"]
+- !private ["Ps22_CVarArgPassedAsDouble", "IntegerLiteralType"]
+- !private ["Ps24_ColorLiteralConvertible", "CGColor"]
+- !private ["Ps24_ColorLiteralConvertible", "clearColor"]
+- !private ["Ps14_Incrementable", "IntegerLiteralType"]
+- !private ["Ps22_IntegerArithmeticType", "IntegerLiteralType"]
+- !private ["Ps12_IntegerType", "IntegerLiteralType"]
+- !private ["Ps21_ObjectiveCBridgeable", "IntegerLiteralType"]
+- !private ["Ps22_RandomAccessAmbiguity", "IntegerLiteralType"]
+- !private ["Ps12_Reflectable", "IntegerLiteralType"]
+- !private ["Ps12_Reflectable", "init"]
+- !private ["Ps18_SignedIntegerType", "IntegerLiteralType"]
+depends-nominal:
+- !private "Ps16AbsoluteValuable"
+- "Ps9AnyObject"
+- !private "Ps22BidirectionalIndexType"
+- !private "Ps21BitwiseOperationsType"
+- !private "PSo8CAAction"
+- !private "CSo11CAAnimation"
+- !private "CSo16CABasicAnimation"
+- "CSo7CALayer"
+- "PSo13CAMediaTiming"
+- !private "CSo19CAPropertyAnimation"
+- "CSo12CAShapeLayer"
+- !private "V12CoreGraphics7CGFloat"
+- !private "VSC7CGPoint"
+- "Ps11CVarArgType"
+- !private "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- !private "Sd"
+- "Ps9Equatable"
+- !private "Ps23FloatLiteralConvertible"
+- !private "Ps17FloatingPointType"
+- !private "Ps16ForwardIndexType"
+- "Ps8Hashable"
+- !private "Si"
+- !private "Ps21IntegerArithmeticType"
+- !private "Ps25IntegerLiteralConvertible"
+- !private "Ps11IntegerType"
+- !private "Ps14MirrorPathType"
+- "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "Sq"
+- !private "Ps21RandomAccessIndexType"
+- "CX12GfrHIalBvqmw14RectangleLayer"
+- !private "Ps17SignedIntegerType"
+- !private "Ps16SignedNumberType"
+- !private "Vs12StaticString"
+- !private "Ps10Strideable"
+- !private "CSo12UIBezierPath"
+- !private "CSo7UIColor"
+- !private "Ps31_BuiltinFloatLiteralConvertible"
+- !private "Ps33_BuiltinIntegerLiteralConvertible"
+- !private "Ps19_CVarArgAlignedType"
+- !private "Ps22_CVarArgPassedAsDouble"
+- !private "Ps24_ColorLiteralConvertible"
+- !private "Ps14_Incrementable"
+- !private "Ps22_IntegerArithmeticType"
+- !private "Ps12_IntegerType"
+- !private "Ps21_ObjectiveCBridgeable"
+- !private "Ps22_RandomAccessAmbiguity"
+- !private "Ps12_Reflectable"
+- !private "Ps18_SignedIntegerType"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+interface-hash: "e03b1a3121c7a8a84710f70914194963"
